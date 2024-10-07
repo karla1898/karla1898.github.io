@@ -1,0 +1,26 @@
+.background-pink {
+    background-color: pink;
+  }
+  
+  .headerOne {
+    color: rgb(14, 14, 111); 
+    text-align: center;
+  }
+
+  #text {
+    font-size: 36px;
+  }
+
+  #btn {
+    border-color: palevioletred;
+
+  }
+
+  body {
+    background-color: azure;
+  }
+
+  .pic {
+   border-style: dotted;
+   border-color: blueviolet;
+  }
